@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MatrixCodeDE
+- 👋 Hi, I’m @MatrixCodeDE/MatrixGraphicz
 - 👀 I’m interested in Minecraft, Discord Bots
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on NRC Bot and SmartSniper

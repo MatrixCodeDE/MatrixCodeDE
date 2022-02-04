@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatrixCodeDE
 - 👀 I’m interested in Minecraft, Discord Bots
 - 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on NRC Bot
+- 💞️ I’m looking to collaborate on NRC Bot and SmartSniper
 - 📫 DMs closed
 
 <h4 align="left">I use</h4>

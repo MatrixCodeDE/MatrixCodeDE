@@ -14,9 +14,9 @@ def aboutme():
     learning: ["Python"]
     repos: [
         {
-        MatrixCodeDE: "This",
-        smart-sniper: "Contributor",
-        NoRiskClientBotRemastered: "Ex Contributor until the end of NoRiskClient"
+        "MatrixCodeDE": "This",
+        "smart-sniper": "Contributor",
+        "NoRiskClientBotRemastered": "Ex Contributor until the end of NoRiskClient"
         }
     ]
   }

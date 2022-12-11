@@ -10,7 +10,7 @@ def aboutme():
     country: "Germany",
     code: ["Python", "JSON"],
     tools: ["VSC", "GitHub"],
-    interested: ["Minecraft", "Python", "APIs", "Design],
+    interested: ["Minecraft", "Python", "APIs", "Design"],
     learning: ["Python"]
     repos: [
         {

@@ -12,13 +12,11 @@ def aboutme():
     "tools": ["VSC", "GitHub"],
     "interested": ["Minecraft", "Python", "APIs", "Design"],
     "learning": ["Python"]
-    "repos": [
-        {
+    "repos":{
         "MatrixCodeDE": "This",
         "smart-sniper": "Contributor",
         "NoRiskClientBotRemastered": "Ex Contributor until the end of NoRiskClient"
-        }
-    ]
+    }
   }
   print(matrix)
 

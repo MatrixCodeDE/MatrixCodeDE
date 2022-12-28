@@ -7,12 +7,12 @@
 ```py
 def aboutme():
   matrix = {
-    country: "Germany",
-    code: ["Python", "JSON"],
-    tools: ["VSC", "GitHub"],
-    interested: ["Minecraft", "Python", "APIs", "Design"],
-    learning: ["Python"]
-    repos: [
+    "country": "Germany",
+    "code": ["Python", "JSON"],
+    "tools": ["VSC", "GitHub"],
+    "interested": ["Minecraft", "Python", "APIs", "Design"],
+    "learning": ["Python"]
+    "repos": [
         {
         "MatrixCodeDE": "This",
         "smart-sniper": "Contributor",

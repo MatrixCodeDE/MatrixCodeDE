@@ -1,9 +1,8 @@
 <h1> heyo</h1>
 
-i'm matrix or felix or whatever you want to call me. \
-so here are a few infos about me:
-- it-sec student from 🇩🇪
+heyo there, i'm matrix or felix or whatever you want to call me. A few things about me:
+
+- it-sec consultant from 🇩🇪 (surprise)
 - likes open source
-- python pro
-- coded his own minecraft pvp mod because the others had too few features
-- converts problems into other problems
+- publishes also draft projects, maybe someone has a use of it
+- codes just for fun
